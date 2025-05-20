@@ -22,4 +22,4 @@ Molokanova E. _et al._ **Graphene Optoelectronics for Non-Genetic Neuromodulatio
 * Finally, the software will await the next signal from the robot to repeat the cycle.
 
 ## Test Dataset
-* rgv_spike_list.csv
+* rgo_spike_list.csv
