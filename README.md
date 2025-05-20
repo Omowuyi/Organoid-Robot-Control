@@ -1,11 +1,16 @@
 # Organoid-Robot-Control
 *This is code accompanying the publication*
 
-Molokanova E. _et al._ ** Graphene Optoelectronics for Non-Genetic Neuromodulation in Disease Modeling, Stem Cell Maturation, and Biohybrid Robotics** (2025)
+Molokanova E. _et al._ **Graphene Optoelectronics for Non-Genetic Neuromodulation in Disease Modeling, Stem Cell Maturation, and Biohybrid Robotics** (2025)
 
 ## Installation
 
-* Package: Anaconda, Spyder
+* Download and install [Anaconda](https://anaconda.com/download)
+* Install **Spyder** from Anaconda and run it
+* Download spike list **rgo_spike_list.csv** from repo
+* Download and open the script **Control.py**
+* Change location to directory where rgo_spike_list.csv is saved
+* Run the script **Control.py**
 
 ## Functions
 * Receive information (alert signals) from the robot.
