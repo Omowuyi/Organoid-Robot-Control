@@ -6,6 +6,17 @@ Molokanova E. _et al._ **Graphene Optoelectronics for Non-Genetic Neuromodulatio
 ## Installation
 
 * Download and install [Anaconda](https://anaconda.com/download)
+    * For Windows:
+        * Double-click the downloaded installer file
+        * Click "Next" to proceed through the installation wizard.
+        * Accept the license agreement by clicking "I Agree".
+        * Choose whether to install Anaconda for all users or just the current user.
+        * Select your preferred installation location (default is recommended). 
+    * For Mac:
+        * Open the Terminal application on your Mac
+        * Navigate to the installation directory of Anaconda
+        * If you chose to install Anaconda for all users, you may need to use **sudo**
+        * Once Anaconda is installed, the installer will prompt you to initialize Anaconda by running **conda init**. Type "yes" to accept. 
 * Install **Spyder** from Anaconda and run it
 * Download spike list **rgo_spike_list.csv** from repo
 * Download and open the script **Control.py**
